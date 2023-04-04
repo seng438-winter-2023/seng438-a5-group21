@@ -14,7 +14,7 @@
 In this lab, we aim to gain hands-on experience on assessing the reliability of software systems through collecting data of failure during testing. This is done through reliability growth assessment such as CASRE or SRTAT and reliability assessment using Reliability Demonstration Chart. This will allow an understanding of the usefulness of reliability growth testing, ability to measure failure rate through analysis of MTTF and reliability of SUT, and become more experienced with reliability growth testing tools.
 
 # Assessment Using Reliability Growth Testing 
-Result of model comparison (selecting top two models)   
+**Result of model comparison (selecting top two models)**    
 ![image](https://user-images.githubusercontent.com/101444825/229654587-84139f13-4fdf-44ab-9e31-2573b69c58be.png)   
 Performing Trend Analysis Using Geometric model   
 
@@ -25,13 +25,13 @@ Performing Trend Analysis Using Littlewood and Varral’s Bayesian Reliability
 The data we tested is Failure Report 2. The top two models were Geometric and Littlewood and Varral’s Bayesian Reliability. This is because they were the only models that worked on our machine and for our data set.
 
 **Result of range analysis (an explanation of which part of data is good for proceeding with the analysis)**    
-Plots for failure rate and reliability of the SUT for the test data provided
+**Plots for failure rate and reliability of the SUT for the test data provided**   
 
 ![image](https://user-images.githubusercontent.com/101444825/229654683-a46850ac-de6c-4611-bbf3-255d981071d5.png)
 
 ![image](https://user-images.githubusercontent.com/101444825/229654695-75bd598d-f44e-4524-a17d-2d7c76604af7.png)
 
-A discussion on decision making given a target failure rate
+**A discussion on decision making given a target failure rate**   
 As shown in the failure intensity graph, the failure rate increases at around 3 failures. It then generally decreases as time goes on and the number of failures increases. 
 As shown in the mean time between failures vs failure number graph, an increasing series of arithmetic mean indicates reliability growth. This shows that as time goes on, the SUT becomes more reliable.
 
