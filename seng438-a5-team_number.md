@@ -24,7 +24,7 @@ Performing Trend Analysis Using Littlewood and Varral’s Bayesian Reliability
 
 The data we tested is Failure Report 2. The top two models were Geometric and Littlewood and Varral’s Bayesian Reliability. This is because they were the only models that worked on our machine and for our data set.
 
-Result of range analysis (an explanation of which part of data is good for proceeding with the analysis)
+**Result of range analysis (an explanation of which part of data is good for proceeding with the analysis)**    
 Plots for failure rate and reliability of the SUT for the test data provided
 
 ![image](https://user-images.githubusercontent.com/101444825/229654683-a46850ac-de6c-4611-bbf3-255d981071d5.png)
