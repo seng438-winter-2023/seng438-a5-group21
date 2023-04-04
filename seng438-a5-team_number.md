@@ -15,6 +15,7 @@ In this lab, we aim to gain hands-on experience on assessing the reliability of 
 
 # Assessment Using Reliability Growth Testing 
 Result of model comparison (selecting top two models)
+
 ![image](https://user-images.githubusercontent.com/101444825/229654587-84139f13-4fdf-44ab-9e31-2573b69c58be.png)
 Performing Trend Analysis Using Geometric model 
 
