@@ -69,7 +69,7 @@ Half MTTF: 100/35000 = 0.00285714285
 How we decided the MTTFmin of our graph was first inputting our failure data into the reliability demonstration chart tables within the excel sheet. Then adjusting the time per cycle over and over narrowing down until an acceptable result was found continuously looking between the failure data and demo chart. We opted for a result where the last data point would eventually reach outside of the continue, and into the accept. This means our software has met acceptable standards.
 
 
-**Discussion on the advantages and disadvantages of RDC**   
+# Discussion on the advantages and disadvantages of RDC   
 The advantages of using RDC is that it provides a visual and graphical way to present the data, which can help more clearly represent the data to people who aren’t acquainted with more advanced software and techniques. Also it is very simple to use as it is all stored in a single excel sheet, as well as fast as all you need to do is input failure data. Finally it’s extremely easy to interpret with many basic settings to make sure the reliability information is conveyed appropriately. 
      
 The disadvantages of using RDC is that without enough data it becomes virtually useless, as large sample sizes are needed to fully visualize and interpret the results. Also while being simple, easy and fast it will limit the accuracy of the results as it cannot show more in-depth specifics. Finally some of the settings within the RDC are assumptions, so human error can become a problem when inputting data.
