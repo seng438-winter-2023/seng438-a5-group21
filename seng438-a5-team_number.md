@@ -20,6 +20,8 @@ Result of model comparison (selecting top two models)
 
 Performing Trend Analysis Using Geometric model 
 
+
+
 ![image](https://user-images.githubusercontent.com/101444825/229654624-0c6827fe-8dfd-47ad-add6-ee86b4bac4e3.png)
 
 Performing Trend Analysis Using Littlewood and Varral’s Bayesian Reliability
