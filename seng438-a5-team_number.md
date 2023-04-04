@@ -14,8 +14,7 @@
 In this lab, we aim to gain hands-on experience on assessing the reliability of software systems through collecting data of failure during testing. This is done through reliability growth assessment such as CASRE or SRTAT and reliability assessment using Reliability Demonstration Chart. This will allow an understanding of the usefulness of reliability growth testing, ability to measure failure rate through analysis of MTTF and reliability of SUT, and become more experienced with reliability growth testing tools.
 
 # Assessment Using Reliability Growth Testing 
-Result of model comparison (selecting top two models)
-
+Result of model comparison (selecting top two models)   
 ![image](https://user-images.githubusercontent.com/101444825/229654587-84139f13-4fdf-44ab-9e31-2573b69c58be.png)
 
 Performing Trend Analysis Using Geometric model 
