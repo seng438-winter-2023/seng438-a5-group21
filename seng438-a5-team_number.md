@@ -17,16 +17,20 @@ In this lab, we aim to gain hands-on experience on assessing the reliability of 
 Result of model comparison (selecting top two models)
 
 ![image](https://user-images.githubusercontent.com/101444825/229654587-84139f13-4fdf-44ab-9e31-2573b69c58be.png)
+
 Performing Trend Analysis Using Geometric model 
 
 ![image](https://user-images.githubusercontent.com/101444825/229654624-0c6827fe-8dfd-47ad-add6-ee86b4bac4e3.png)
+
 Performing Trend Analysis Using Littlewood and Varral’s Bayesian Reliability
 
 The data we tested is Failure Report 2. The top two models were Geometric and Littlewood and Varral’s Bayesian Reliability. This is because they were the only models that worked on our machine and for our data set.
 
 Result of range analysis (an explanation of which part of data is good for proceeding with the analysis)
 Plots for failure rate and reliability of the SUT for the test data provided
+
 ![image](https://user-images.githubusercontent.com/101444825/229654683-a46850ac-de6c-4611-bbf3-255d981071d5.png)
+
 ![image](https://user-images.githubusercontent.com/101444825/229654695-75bd598d-f44e-4524-a17d-2d7c76604af7.png)
 
 A discussion on decision making given a target failure rate
@@ -52,12 +56,15 @@ For the assessment using the reliability demonstration chart, we used the provid
 
 3 plots for MTTFmin, twice and half of it for your test data
 Minimum MTTF: 100/70000 = 0.00142857142
+
 ![image](https://user-images.githubusercontent.com/101444825/229654980-374c5d9c-ab98-4dd5-919f-4856cd5a623f.png)
 
 Double MTTF:  100/140000 = 0.00071428571
+
 ![image](https://user-images.githubusercontent.com/101444825/229654998-5f56335e-e117-45aa-a91d-f1fa557989ed.png)
 
 Half MTTF: 100/35000 = 0.00285714285
+
 ![image](https://user-images.githubusercontent.com/101444825/229655031-c42c03a7-a1c7-4343-873a-e9865ad8ccaa.png)
 
 **Explain your evaluation and justification of how you decide the MTTFmin**
