@@ -35,7 +35,7 @@ A discussion on decision making given a target failure rate
 As shown in the failure intensity graph, the failure rate increases at around 3 failures. It then generally decreases as time goes on and the number of failures increases. 
 As shown in the mean time between failures vs failure number graph, an increasing series of arithmetic mean indicates reliability growth. This shows that as time goes on, the SUT becomes more reliable.
 
-A discussion on the advantages and disadvantages of reliability growth analysis
+# A discussion on the advantages and disadvantages of reliability growth analysis
 
  **Advantages of reliability growth analysis**
 * Provides information and data to improve a system’s reliability
